@@ -8,8 +8,8 @@ This project handles many common issues that are common in most starter calculat
 
 1. Click the green "Code" button 
 
-![](C:\Users\Jack\Desktop\Screenshot_87.png)
+![](https://i.imgur.com/LzFXGZQ.png)
 
 2. Click "Download ZIP"
 
-   ![](C:\Users\Jack\Desktop\Screenshot_86.png)
+   ![](https://i.imgur.com/afNnIco.png)
