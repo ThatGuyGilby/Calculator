@@ -4,7 +4,7 @@ This project demonstrates the development and testing of a Calculator applicatio
 
 This project handles many common issues that are common in most starter calculator applications such as dividing by zero. This was accomplished by using a robust suite of tests for each possible use case.
 
-###### How to Use the Project
+## How to Use the Project
 
 1. Click the green "Code" button 
 
